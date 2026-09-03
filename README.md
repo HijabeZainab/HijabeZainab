@@ -1,6 +1,6 @@
 ### Hi, I'm Hijab e Zainab 👋
 
-🎓 Data Science Graduate | Python • SQL • Machine Learning • NLP
+🎓 Final year student of Data Science | Python • SQL • Machine Learning • NLP
 
 🔍 Passionate about using data and AI to solve real-world problems — especially in healthcare and social impact.
 
@@ -19,7 +19,6 @@
 - NVIDIA Deep Learning Institute Certification
 
 **🚀 Featured Projects**
-- 🧠 *Early Autism Detection (FYP)* — ML-based screening using speech/behavioral features
 - 💬 *Sentiment Analysis* — Text classification project using NLP
 
 **📫 Let's connect:** Open to remote data science opportunities and internships.
